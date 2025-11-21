@@ -22,3 +22,7 @@ Key insights:
 •	Strike rate trends and batting average were the strongest indicators of peak form. 
 
 •	Demonstrated how analytics can support smarter talent scouting and team selection. 
+
+'Cricket Report' shows my full report with research questions and results.
+'IPL Player Stats - 2016 till 2019' is the data used.
+'Predicting_Peaks' is my completed R script. 
